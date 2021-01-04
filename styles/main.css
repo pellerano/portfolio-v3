@@ -205,7 +205,7 @@ body {
   -ms-grid-row: 1;
   -ms-grid-column: 2;
   grid-area: secondary;
-  background: url("../../images/HP v2.png");
+  background: url("../images/HP v2.png");
   background-size: 110%;
   background-repeat: no-repeat;
   background-position: center;
